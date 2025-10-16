@@ -1,0 +1,29 @@
+[
+  {
+    "petId": 1,
+    "petName": "น้อง A",
+    "petType": 10,
+    "petDesc": "รายละเอียดน้อง A",
+    "petSex": "M",
+    "ownerName": "นาย A",
+    "ownerEmail": "khun.a@mail.com"
+  },
+  {
+    "petId": 2,
+    "petName": "น้อง B",
+    "petType": 20,
+    "petDesc": "รายละเอียดน้อง B",
+    "petSex": "F",
+    "ownerName": "นางสาว B",
+    "ownerEmail": "khun.b@mail.com"
+  },
+  {
+    "petId": 3,
+    "petName": "น้อง C",
+    "petType": 30,
+    "petDesc": "รายละเอียดน้อง C",
+    "petSex": "M",
+    "ownerName": "นาย C",
+    "ownerEmail": "khun.c@mail.com"
+  }
+]
